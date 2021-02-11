@@ -1,0 +1,26 @@
+Name,Code
+population,B01003_001E
+"""Household Income""",B19013_001E
+"""Per Capita Income""",B19301_001E
+chinese,
+french,
+greek,
+indian,
+italian,
+japanese,
+brazillian,
+mexican,
+african-american,
+thai,
+zipcode,
+chinese /population ,
+french / population ,
+greek /population ,
+indian / population ,
+italian / population,
+japanese / population,
+brazillian / population ,
+mexican / population,
+african-american /population ,
+thai /population ,
+city,
