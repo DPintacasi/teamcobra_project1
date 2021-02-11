@@ -2,16 +2,16 @@ Name,Code
 population,B01003_001E
 """Household Income""",B19013_001E
 """Per Capita Income""",B19301_001E
-chinese,
-french,
-greek,
-indian,
-italian,
-japanese,
-brazillian,
-mexican,
-african-american,
-thai,
+chinese,B02018_007E
+french,B04006_040E
+greek,B04006_044E
+indian,B02015_001E
+italian,B04006_051E
+japanese,B02015_011E
+brazillian,B04006_022E
+mexican,B03001_004E
+african-american,B05003B_001E
+thai,B02015_021E
 zipcode,
 chinese /population ,
 french / population ,
