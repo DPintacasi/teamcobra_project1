@@ -1,1 +1,2 @@
 census_key = "17f75dcc092b8b92d6e74846f0d3f20e8f0eca1a"
+yelp_key = "55K4Bo8-1xPcxAllkcJ2DSbdFfYlrbOQ1RRRLdcGSxEwZJAJw1LrU31wKqa8TGhhv_gkATAlju4oTlzNP4h-_J5iFqbeMBWbb3eJzKYzbIA_maT3_mNKkMMD8fcnYHYx"
