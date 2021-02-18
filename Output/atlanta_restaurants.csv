@@ -1,0 +1,490 @@
+,name,city,latitude,longitude,zipcode,ethnicity,price,rating
+0,Bao Bun Hibachi,Atlanta,33.80116,-84.4147,30318,chinese,$,4.5
+1,Little Bangkok,Atlanta,33.81593,-84.35219,30324,chinese,$$,4.0
+2,Urban Wu,Atlanta,33.84671,-84.374065,30305,chinese,$$,4.0
+3,Food Terminal,Atlanta,33.778829,-84.410034,30318,chinese,$$,4.5
+4,Hibachi Buffet,Atlanta,33.841328,-84.327574,30329,chinese,$,4.5
+5,Kong's Kitchen,Atlanta,33.7976904,-84.3687105,30324,chinese,N/A,3.0
+6,Hsu's Atlanta,Atlanta,33.7595475225047,-84.3862326588608,30303,chinese,$$,4.0
+7,Gu’s Kitchen,Atlanta,33.88443,-84.28765,30341,chinese,$$,4.0
+8,Hai,Atlanta,33.792031,-84.286616,30033,chinese,$$,4.0
+9,Nova Sushi Bar & Asian Bistro,Atlanta,33.85299,-84.35853,30319,chinese,$$,4.0
+10,Jia,Atlanta,33.772372216316,-84.3658345460327,30308,chinese,$$,3.0
+11,Su's Chinese Cuisine,Atlanta,33.7963896243025,-84.371042422091,30324,chinese,$$,3.0
+12,Lucky Thai,Atlanta,33.82799,-84.32658,30329,chinese,$$,4.5
+13,Chai Peking,Atlanta,33.815615,-84.313734,30329,chinese,$$,4.0
+14,Hot Melody 煮烤官,Atlanta,33.8963309644377,-84.2811899999284,30340,chinese,N/A,4.0
+15,Sho Spicy,Atlanta,33.88946,-84.38167,30342,chinese,N/A,4.5
+16,Grand China Restaurant,Atlanta,33.8362756,-84.3817358,30305,chinese,$$,4.0
+17,Mamak,Atlanta,33.8934542170406,-84.2847600951791,30340,chinese,$$,4.0
+18,Canton Buddha,Atlanta,33.8343211937348,-84.3836943412782,30305,chinese,$$,3.0
+19,La Mei Zi,Atlanta,33.8927899012153,-84.2862031236291,30340,chinese,$$,4.5
+20,New Lan Zhou Noodle,Atlanta,33.8906958073146,-84.2997064938153,30341,chinese,$,4.0
+21,Rice Mac,Atlanta,33.7909075146705,-84.3074947061871,30033,chinese,$$,3.5
+22,Spicy GaGa Duck,Atlanta,33.89155,-84.28574,30340,chinese,$,4.0
+23,Northern China Eatery,Atlanta,33.89256,-84.2838,30340,chinese,$$,4.0
+24,Hong Kong City,Atlanta,33.8584595,-84.3096619,30345,chinese,$,3.5
+25,Tin Drum Asian Kitchen - The Village at Druid Hills,Atlanta,33.82847419,-84.32893917,30329,chinese,$,3.0
+26,Pyng Ho,Atlanta,33.7925301,-84.3055344,30033,chinese,$$,3.0
+27,Bo Bo Garden,Atlanta,33.8937250070495,-84.2831826210022,30340,chinese,$$,3.5
+28,Saigon Cafe,Atlanta,33.791335,-84.30575,30033,chinese,$$,3.5
+29,Farmers Basket,Atlanta,33.8798003473078,-84.4674792233425,30339,chinese,$,4.0
+30,China Kitchen,Atlanta,33.8933077021359,-84.2857074910156,30340,chinese,$,4.0
+31,Yumm Teriyaki,Atlanta,33.75237,-84.39222,30303,chinese,$,2.5
+32,Bismillah Grill And Chinese,Atlanta,33.86741,-84.30077,30341,chinese,$$,4.0
+33,Lucky China,Atlanta,33.7707005484061,-84.3721553846557,30308,chinese,$,3.0
+34,Fan T'Asia,Atlanta,33.887265,-84.470586,30339,chinese,N/A,3.5
+35,Canton House,Atlanta,33.882523,-84.289367,30341,chinese,$$,3.5
+36,Hong Kong BBQ,Atlanta,33.8907484,-84.3001492,30341,chinese,$,4.0
+37,Crazy Skewers,Atlanta,33.908005,-84.288075,30360,chinese,N/A,4.0
+38,China Hot Pot,Atlanta,33.8913696896177,-84.2857840284705,30340,chinese,$$,4.0
+39,China Cafeteria,Atlanta,33.738883972168,-84.4346160888672,30310,chinese,$,3.0
+40,Ming's Bar B Que,Atlanta,33.8930899852978,-84.286122532639,30340,chinese,$,3.5
+41,First Wok,Atlanta,33.843848,-84.328388,30329,chinese,$,3.0
+42,Wokdragon,Atlanta,33.8455044040459,-84.3610376081817,30326,chinese,$,3.5
+43,Beijing Kabobs,Atlanta,33.891368,-84.285734,30340,chinese,$,3.5
+44,Wonder Wok,Atlanta,33.7384051,-84.2805128,30032,chinese,$,3.5
+45,Mint Chinese & Thai,Atlanta,33.8673959,-84.3093251,30341,chinese,$$,3.5
+46,Panda Express,Atlanta,33.75273517,-84.38493117,30302,chinese,N/A,3.0
+47,USA Deli,Atlanta,33.74775,-84.3499,30316,chinese,$,4.0
+48,Chef Chen,Atlanta,33.83164,-84.49349,30080,chinese,$,3.5
+49,China Moon Restaurant,Atlanta,33.864997,-84.470202,30339,chinese,$$,3.5
+50,China Dragon,Atlanta,33.7741233,-84.3611591680708,30306,chinese,$,3.0
+51,China Wok,Atlanta,33.8944375045371,-84.330271111084,30319,chinese,$,3.0
+52,Orient At Vinings,Atlanta,33.85978,-84.45559,30339,chinese,$$,3.5
+53,Chopsticks,Atlanta,33.8142967224121,-84.3344268798828,30329,chinese,$,2.0
+54,China Taste,Atlanta,33.8652613601996,-84.4925508680838,30303,chinese,$,3.5
+55,Hunan Dragon 3,Atlanta,33.789815,-84.307892,30030,chinese,$,3.0
+56,Taste Of Asia,Atlanta,33.762725,-84.385839,30303,chinese,$,2.5
+57,House of Chan,Atlanta,33.8916682451963,-84.4769507646561,30080,chinese,$$,4.0
+58,Ocean Garden,Atlanta,33.8907009,-84.3002039,30366,chinese,$,3.0
+59,Good Luck Gourmet,Atlanta,33.909176,-84.26888,30340,chinese,$$,3.5
+60,Le Colonial - Atlanta,Atlanta,33.837408,-84.380267,30305,french,N/A,4.5
+61,Nikolai's Roof,Atlanta,33.76157,-84.38336,30303,french,$$$,4.0
+62,Bistro Niko,Atlanta,33.8466138235112,-84.3686171240814,30326,french,$$,4.0
+63,Bread & Butterfly,Atlanta,33.7624231212812,-84.3580997362733,30307,french,$$,4.0
+64,Tiny Lou's,Atlanta,33.77336,-84.36135,30306,french,$$,4.0
+65,Cooks & Soldiers,Atlanta,33.7860044228728,-84.4113549197128,30318,french,$$,4.5
+66,Atmosphere Bistro,Atlanta,33.79885,-84.36855,30324,french,$$$,4.0
+67,Anis Cafe & Bistro,Atlanta,33.8357638,-84.376597,30305,french,$$$,4.0
+68,Le Bilboquet,Atlanta,33.837729,-84.380301,30305,french,$$$,3.5
+69,Paris Bistro,Atlanta,33.791717,-84.394655,30363,french,$,3.5
+70,Petit Chou,Atlanta,33.7468297,-84.3658198,30312,french,$$,4.5
+71,Babette's Cafe,Atlanta,33.7700112,-84.352256,30307,french,$$,4.0
+72,Cafe Lapin,Atlanta,33.8190064384197,-84.3869660513122,30305,french,$$,3.5
+73,Café Vendôme,Atlanta,33.889693,-84.38058,30342,french,$$,4.0
+74,By George,Atlanta,33.756947,-84.387816,30303,french,N/A,3.5
+75,Petite Violette,Atlanta,33.84348,-84.31538,30329,french,$$$,3.5
+76,The Brasserie at Bazati,Atlanta,33.7704638695929,-84.361970834434,30306,french,N/A,3.5
+77,Bazati,Atlanta,33.7703514430957,-84.3623656177145,30306,french,N/A,3.5
+78,Cafe Alsace,Atlanta,33.7755000018751,-84.2953847374044,30030,french,$$,4.0
+79,285 Colonial Kitchen,Atlanta,33.905818,-84.379203,30342,french,N/A,4.5
+80,Mediterranean Grill,Atlanta,33.78137,-84.36835,30308,greek,$,4.0
+81,Cafe Agora,Atlanta,33.839617,-84.377384,30305,greek,$$,4.0
+82,Pita Mediterranean Street Food,Atlanta,33.782891,-84.380213,30309,greek,$,4.0
+83,Zoes Kitchen,Atlanta,33.827338368972,-84.3317817202377,30329,greek,$,4.0
+84,Kyma,Atlanta,33.8398132324219,-84.3690795898438,30305,greek,$$$,4.0
+85,The Sivas,Atlanta,33.7761595298754,-84.3831407132901,30308,greek,$$,3.5
+86,Grecian Gyro,Atlanta,33.80084,-84.40836,30318,greek,N/A,4.0
+87,Nick's Food To Go,Atlanta,33.7476257271798,-84.3797329408783,30312,greek,$$,4.5
+88,Taverna Plaka,Atlanta,33.8149,-84.353754,30324,greek,$$,3.5
+89,Kafenio Avondale,Atlanta,33.775456,-84.278768,30030,greek,$$,4.5
+90,Mr Everything Cafe,Atlanta,33.75496,-84.41703,30314,greek,$$,3.5
+91,Hovan Mediterranean Gourmet,Atlanta,33.8923732572431,-84.3255778261672,30319,greek,$,4.5
+92,Zoes Kitchen,Atlanta,33.7888588414924,-84.3269670009613,30307,greek,$,3.5
+93,Zoes Kitchen,Atlanta,33.8187960777596,-84.3878383142811,30305,greek,$,3.5
+94,Santorini,Atlanta,33.8807146582033,-84.3803814520122,30342,greek,$$,4.0
+95,Midtown Diner,Atlanta,33.771619,-84.385129,30308,greek,N/A,3.0
+96,Ali Baba,Atlanta,33.76357,-84.35035,30303,greek,$,4.0
+97,Yalla,Atlanta,33.7568696426793,-84.3639634269837,30307,greek,$$,4.0
+98,Zeus Greek Street Food,Atlanta,33.901915,-84.454731,30339,greek,$$,4.0
+99,Gyro Bros,Atlanta,33.7780006367365,-84.38463841933844,30308,greek,$,3.5
+100,Tabla,Atlanta,33.7844012883052,-84.3851486871719,30309,indian,$$,4.0
+101,Jai Ho Indian Kitchen & Bar,Atlanta,33.79224,-84.36935,30324,indian,$$,4.5
+102,Masti fun Indian Street Food,Atlanta,33.8145792129066,-84.310634758197,30329,indian,$$,4.0
+103,Blue India,Atlanta,33.7797200205361,-84.3835182227681,30309,indian,$$,4.0
+104,Aamar Indian Cuisine,Atlanta,33.757311,-84.389912,30303,indian,$$,4.5
+105,NaanStop,Atlanta,33.79268,-84.39701,30363,indian,N/A,3.5
+106,Botiwalla,Atlanta,33.772869,-84.366016,30308,indian,$$,4.0
+107,Baraka Shawarma,Atlanta,33.7563422479846,-84.390687742543,30303,indian,$$,4.5
+108,Curry Up Now,Atlanta,33.74631,-84.35789,30316,indian,N/A,4.5
+109,Curry Up Now,Atlanta,33.79345,-84.28371,30033,indian,$$,4.5
+110,Touch,Atlanta,33.7859348008621,-84.4009537249804,30318,indian,$,3.5
+111,Bismillah Cafe,Atlanta,33.86071,-84.30943,30345,indian,$,4.5
+112,NaanStop,Atlanta,33.847993,-84.374005,30305,indian,$,3.5
+113,Himalayan Spice,Atlanta,33.8382387014427,-84.3108878365105,30329,indian,$$,4.0
+114,NaanStop,Atlanta,33.7558309,-84.3894655,30303,indian,$,4.0
+115,Cafe Bombay,Atlanta,33.8283561298043,-84.3268966357462,30329,indian,$$,3.5
+116,Purnima Bangladeshi Cuisine,Atlanta,33.877123,-84.293591,30341,indian,$$,4.5
+117,Zyka,Atlanta,33.797014,-84.283603,30033,indian,$$,4.0
+118,Chai Pani,Atlanta,33.7756235145349,-84.3027386162893,30030,indian,$$,4.0
+119,Bhojanic,Atlanta,33.847128,-84.365423,30326,indian,$$,3.5
+120,Gokul Sweets,Atlanta,33.7990303039551,-84.2796325683594,30033,indian,$,3.5
+121,Mint Leaf Indian Cuisine,Atlanta,33.88242,-84.48737,30080,indian,$$,4.0
+122,Masala Fresh,Atlanta,33.81633,-84.4455,30318,indian,$$,3.0
+123,Lahore Grill,Atlanta,33.9068717,-84.4896327,30060,indian,$,3.5
+124,Swapna Indian Cuisine,Atlanta,33.8879541,-84.472801,30339,indian,$$,3.5
+125,Taste of India,Atlanta,33.76016,-84.38702,30303,indian,N/A,2.5
+126,Hyderabad Xpress,Atlanta,33.8849279,-84.4768679,30080,indian,N/A,4.0
+127,Kusum Food,Atlanta,33.7936351,-84.2740451,30033,indian,$,3.5
+128,Punjab Grocery,Atlanta,33.906963,-84.488987,30060,indian,$,3.0
+129,Grana,Atlanta,33.805648,-84.3666786,30324,italian,N/A,4.0
+130,EATaliano Kitchen,Atlanta,33.826192,-84.333298,30329,italian,$$,4.0
+131,Storico Fresco Alimentari e Ristorante,Atlanta,33.8400192069777,-84.3764044785736,30305,italian,$$,4.0
+132,La Tavola Trattoria,Atlanta,33.7824462,-84.3549399,30306,italian,$$,4.5
+133,Pasta Da Pulcinella,Atlanta,33.7853225935674,-84.3860882520676,30309,italian,$$,4.0
+134,Gino's NY Pizza Bar,Atlanta,33.80831,-84.36558,30324,italian,$$,3.0
+135,BoccaLupo,Atlanta,33.7547495778871,-84.3628013134003,30307,italian,$$,4.5
+136,Amalfi Pizza,Atlanta,33.75947,-84.38693,30303,italian,$$,4.0
+137,KR SteakBar,Atlanta,33.8176633959101,-84.3762013609024,30305,italian,$$$,4.0
+138,Tuscany at Your Table,Atlanta,33.7832145,-84.3546688,30306,italian,$,5.0
+139,Nino's Italian Restaurant,Atlanta,33.8098831176758,-84.3597259521484,30324,italian,$$,4.0
+140,La Grotta Ristorante Italiano,Atlanta,33.8266215659531,-84.3866370747994,30305,italian,$$$,4.5
+141,Portofino,Atlanta,33.841999,-84.381578,30305,italian,$$,4.0
+142,St. Cecilia,Atlanta,33.8509665625387,-84.3610457396753,30326,italian,$$$,4.0
+143,a mano,Atlanta,33.76374,-84.36806,30312,italian,$$,4.5
+144,The White Bull,Atlanta,33.775061,-84.295804,30030,italian,$$,4.5
+145,Campagnolo,Atlanta,33.781391,-84.380943,30309,italian,$$,4.0
+146,Forza Storico,Atlanta,33.7866185,-84.4121244,30318,italian,N/A,4.0
+147,Allora,Atlanta,33.7915899179861,-84.3979020416736,30363,italian,$$,3.5
+148,Double Zero,Atlanta,33.7879801,-84.3262274,30307,italian,$$,4.0
+149,FIGO Pasta,Atlanta,33.811966,-84.426416,30318,italian,$$,3.5
+150,Osteria 832,Atlanta,33.777239164269,-84.3528109656067,30306,italian,$$,3.5
+151,Babette's Cafe,Atlanta,33.7700112,-84.352256,30307,italian,$$,4.0
+152,Nancy's Pizza,Atlanta,33.7722004,-84.3788054,30308,italian,$$,3.5
+153,Vinny's New York Pizza,Atlanta,33.7783839848204,-84.3848387480616,30308,italian,$,4.0
+154,Antica Posta Ristorante Toscano,Atlanta,33.8384116459789,-84.3708859000521,30305,italian,$$$,3.5
+155,Buckhead Pizza,Atlanta,33.84582,-84.36988,30326,italian,$$,3.0
+156,Fresh Treats Gourmet Bistro,Atlanta,33.7389549,-84.2891572,30032,italian,$$,4.5
+157,Varasano's Pizzeria,Atlanta,33.813935,-84.391625,30309,italian,$$,3.5
+158,Johnny's New York Style Pizza,Atlanta,33.8090971,-84.3635675684027,30324,italian,$,3.5
+159,Nonis,Atlanta,33.75427327027879,-84.37596786286022,30312,italian,$$,4.0
+160,Paolino,Atlanta,33.760551,-84.303331,30030,italian,N/A,5.0
+161,BrickStone Cafe,Atlanta,33.7558538,-84.3894285,30303,italian,$,4.0
+162,Pasta Vino,Atlanta,33.820152,-84.387432,30305,italian,$$,3.5
+163,Avellino's,Atlanta,33.88111,-84.34266,30319,italian,$$,4.0
+164,Depalma's Porch,Atlanta,33.8116073608398,-84.4250259399414,30318,italian,$$,3.5
+165,Vero Pizzeria,Atlanta,33.8606338500977,-84.330078125,30319,italian,$$,4.0
+166,Crispina Grill,Atlanta,33.872232,-84.457747,30339,italian,$$,4.5
+167,Mambo Italian Street Food,Atlanta,33.9016852369062,-84.4552168250084,30339,italian,$$,3.5
+168,Fazoli's,Atlanta,33.886277,-84.265566,30340,italian,N/A,4.5
+169,Marco's Pizza,Atlanta,33.7763776703081,-84.3526495612988,30306,italian,$,2.5
+170,Avondale Pizza Cafe,Atlanta,33.77474,-84.27372,30030,italian,$,3.5
+171,Villa Christina,Atlanta,33.91344,-84.341989,30319,italian,$$$,3.5
+172,Romeo's NY Pizza,Atlanta,33.7885297,-84.3266597,30307,italian,$,2.5
+173,FIGO Pasta,Atlanta,33.755838,-84.3888816,30303,italian,N/A,1.5
+174,Pizza Hut,Atlanta,33.841084,-84.376394,30305,italian,$,1.5
+175,Olive Garden Italian Restaurant,Atlanta,33.89209,-84.47645,30080,italian,$$,2.5
+176,Pizza Hut,Atlanta,33.842042,-84.32900887275262,30329,italian,$,2.0
+177,Mojo Pizza N' Pub,Atlanta,33.7593506946192,-84.3034721921968,30030,italian,$$,3.0
+178,Joia Restaurant & Lounge,Atlanta,33.78468,-84.38454,30309,italian,$$,2.5
+179,Ciao Bocca,Atlanta,33.75403,-84.3798599,30303,italian,$,3.0
+180,Uncle Maddio's Pizza - Tucker,Atlanta,33.8449551477867,-84.2550477848898,30084,italian,$,3.5
+181,Bella's Pizzeria,Atlanta,33.86573,-84.49224,30080,italian,$$,3.0
+182,Meatballs Bar & More,Atlanta,33.8452727241483,-84.3610590658539,30326,italian,N/A,3.0
+183,Padella Restaurant,Atlanta,33.9059647321094,-84.4661949183047,30067,italian,$$,3.5
+184,Papinos Italian Restaurant,Atlanta,33.762736,-84.385838,30303,italian,$,3.0
+185,Pizza Hut,Atlanta,33.7713662605558,-84.3719444505404,30308,italian,$,1.5
+186,Zeppole's,Atlanta,33.7566801,-84.3820395,30308,italian,N/A,1.0
+187,Sbarro's Italian Eatery,Atlanta,33.879893521393,-84.467869858851,30339,italian,N/A,1.0
+188,Pizza Hut,Atlanta,33.89026,-84.383258,30342,italian,$,1.5
+189,Nakato Japanese Restaurant,Atlanta,33.808668,-84.36461,30324,japanese,$$,4.0
+190,E Ramen +,Atlanta,33.78504,-84.38825,30309,japanese,$$,4.5
+191,Kinnotori Ramen Bar,Atlanta,33.773614,-84.365831,30308,japanese,$$,4.5
+192,JINYA Ramen Bar - Buckhead,Atlanta,33.8566085797099,-84.3827165980401,30342,japanese,$$,4.5
+193,Ginya Izakaya,Atlanta,33.8004825392379,-84.4084178937034,30318,japanese,$$,4.0
+194,Hibachi Buffet,Atlanta,33.841328,-84.327574,30329,japanese,$,4.5
+195,Thaicoon & Sushi Bar,Atlanta,33.8044395664894,-84.3355759796234,30306,japanese,$$,4.0
+196,Extreme Teriyaki Grill Express,Atlanta,33.8262452965808,-84.366138651967,30324,japanese,$,4.0
+197,Wagaya - Westside,Atlanta,33.786349,-84.398266,30318,japanese,$$,4.0
+198,Eight Sushi Lounge,Atlanta,33.78025,-84.41095,30318,japanese,$$,4.5
+199,Ok Yaki,Atlanta,33.73475,-84.34889,30316,japanese,$$,5.0
+200,Himitsu,Atlanta,33.838793,-84.381068,30305,japanese,$$$,3.5
+201,Gyu-Kaku Japanese BBQ,Atlanta,33.792816,-84.396702,30363,japanese,N/A,3.5
+202,PaoPao Ramen Factory And Bar,Atlanta,33.8153785,-84.31183283,30329,japanese,$$,4.0
+203,Momonoki,Atlanta,33.779797,-84.390193,30308,japanese,$$,4.0
+204,Boruboru sushi,Atlanta,33.800721189183,-84.3265157192945,30322,japanese,$$,4.0
+205,Hajime,Atlanta,33.8191873432516,-84.3497106029716,30324,japanese,$$,4.0
+206,Nova Sushi Bar & Asian Bistro,Atlanta,33.85299,-84.35853,30319,japanese,$$,4.0
+207,Yoi Yoi Japanese Steakhouse & Sushi,Atlanta,33.8104265,-84.4160075,30318,japanese,$$,4.0
+208,Chirori - Yakitori & Kushikatsu,Atlanta,33.786349,-84.398576,30318,japanese,N/A,4.5
+209,The One Sushi +,Atlanta,33.86121,-84.33189,30319,japanese,$$,4.0
+210,Mr. Hibachi,Atlanta,33.7541444823,-84.3879146669546,30303,japanese,$,3.5
+211,Sumo Hibachi & Wings,Atlanta,33.8586058,-84.312404,30319,japanese,N/A,4.0
+212,LanZhou Ramen,Atlanta,33.8948178851,-84.2821337016,30340,japanese,$,4.0
+213,Sushi Kiku,Atlanta,33.831014,-84.356809,30324,japanese,$$,3.5
+214,Starfish,Atlanta,33.815784,-84.390585,30309,japanese,$$,3.5
+215,Ru San's,Atlanta,33.84686141712818,-84.37241475029718,30305,japanese,$$,3.5
+216,Kang Nam Japanese Restaurant,Atlanta,33.9065,-84.26862,30340,japanese,$$,4.0
+217,Benihana,Atlanta,33.8127687910815,-84.3917998445591,30309,japanese,$$,2.0
+218,Chin Chin - Howell Mill,Atlanta,33.8012432677404,-84.4134847458484,30318,japanese,$$,3.5
+219,Hikaru Ramen Noodle Bar,Atlanta,33.903285,-84.4604592,30339,japanese,N/A,4.5
+220,Sushi Hayakawa,Atlanta,33.9135665061077,-84.2610619312561,30340,japanese,$$$,4.0
+221,Ramen Station,Atlanta,33.7461,-84.37069,30312,japanese,$$,4.0
+222,Extreme Teriyaki Grill Express,Atlanta,33.8042201513416,-84.412776273819,30318,japanese,$,3.0
+223,Kura Revolving Sushi Bar,Atlanta,33.908159,-84.287725,30360,japanese,$$,3.5
+224,Sushi Matsuya,Atlanta,33.8158872051066,-84.3129041790962,30329,japanese,$$,3.5
+225,Ponko Chicken,Atlanta,33.846349,-84.3635778,30326,japanese,N/A,4.5
+226,Ru San's Midtown,Atlanta,33.7956456,-84.3689065,30324,japanese,$$,3.0
+227,Sushi Village,Atlanta,33.888653,-84.4733,30339,japanese,$$,4.0
+228,Umma's House Restaurant & Cafe,Atlanta,33.77719,-84.38912,30308,japanese,$,2.5
+229,Sushi Avenue on Ponce,Atlanta,33.7751716875678,-84.3001690773801,30030,japanese,$$,3.5
+230,Tokyo Express,Atlanta,33.879859,-84.467468,30339,japanese,$,1.0
+231,Tokyo Express,Atlanta,33.849708,-84.255103,30345,japanese,$,2.5
+232,Fogo de Chao Brazilian Steakhouse,Atlanta,33.84063,-84.3693723614273,30305,brazilian,$$$,4.5
+233,Loca Luna,Atlanta,33.7886082610087,-84.3690906034915,30306,brazilian,$$,3.5
+234,Golden Drops Café,Atlanta,33.8061978685091,-84.3107869103551,30033,brazilian,$,4.5
+235,Red and Green Brazilian Steakhouse,Atlanta,33.913406,-84.260984,30340,brazilian,$$$,3.0
+236,Espetinho Brazilian Sports Grill,Atlanta,33.9159088134766,-84.4691467285156,30067,brazilian,N/A,4.0
+237,Man vs Fries,Atlanta,33.782474,-84.389744,30309,mexican,N/A,4.0
+238,Little Rey,Atlanta,33.80799167,-84.36634667,30324,mexican,$$,4.0
+239,Alma Cocina Buckhead,Atlanta,33.844425,-84.3710444,30305,mexican,N/A,4.5
+240,Salsa Taqueria & Wings,Atlanta,33.855008,-84.31475,30329,mexican,N/A,4.0
+241,Velvet Taco Buckhead,Atlanta,33.83985,-84.3810005042992,30305,mexican,$$,4.0
+242,Botica,Atlanta,33.80535036744924,-84.39418199612047,30309,mexican,N/A,4.5
+243,Mama's Cocina Latina,Atlanta,33.810996,-84.367084,30324,mexican,$$,3.0
+244,Mercado Acapulco,Atlanta,33.8144712074455,-84.3529831136998,30324,mexican,$,4.0
+245,The Original El Taco,Atlanta,33.786997,-84.355746,30306,mexican,$$,4.0
+246,The Queso Shop,Atlanta,33.81190628063254,-84.36271516175105,30324,mexican,N/A,5.0
+247,La Pastorcita,Atlanta,33.84308,-84.32924,30329,mexican,$,4.0
+248,Rreal Tacos,Atlanta,33.7774837176681,-84.3834526399158,30308,mexican,$$,4.0
+249,Superica,Atlanta,33.85995101501122,-84.381151,30342,mexican,$$,4.0
+250,Lazy Llama Cantina,Atlanta,33.79672767,-84.36900333,30324,mexican,N/A,3.5
+251,Chido & Padre's,Atlanta,33.84248,-84.38318,30305,mexican,$$,3.5
+252,Tuza Taco,Atlanta,33.7967893982086,-84.4158232212067,30318,mexican,$$,4.5
+253,Slappingtacosatl,Atlanta,33.71646,-84.40819,30310,mexican,N/A,3.5
+254,bartaco,Atlanta,33.77873,-84.40932,30318,mexican,$$,4.0
+255,El Tesoro,Atlanta,33.74941011022,-84.3426381424069,30317,mexican,$,4.5
+256,I-Guanna Border Grill,Atlanta,33.79345,-84.38824,30309,mexican,N/A,4.0
+257,La Parrilla Mexican Restaurant,Atlanta,33.8033646560687,-84.4124989461021,30318,mexican,$$,3.5
+258,Las Margaritas Latin Resturant Tequila & Rum Sports Bar,Atlanta,33.80963,-84.36256,30324,mexican,$$,3.5
+259,Curry Up Now,Atlanta,33.79345,-84.28371,30033,mexican,$$,4.5
+260,Red Pepper Taqueria,Atlanta,33.84267,-84.37027,30305,mexican,$$,3.5
+261,K BBQ Taco,Atlanta,33.7758067,-84.2963559,30030,mexican,$,4.5
+262,Guac y Margys,Atlanta,33.7555524120715,-84.3653237729713,30312,mexican,$$,4.0
+263,Twisted Taco Emory,Atlanta,33.7923607672341,-84.3234056967012,30322,mexican,N/A,4.0
+264,Las Tortas Locas,Atlanta,33.859923679213,-84.3089949540922,30345,mexican,$,4.5
+265,Tin Lizzy's Cantina,Atlanta,33.8541015885888,-84.381980533072,30305,mexican,$$,4.0
+266,Jalisco Mexican Restaurant,Atlanta,33.8188569890095,-84.3873850171967,30305,mexican,$,3.5
+267,La Fonda,Atlanta,33.83168,-84.38494,30305,mexican,N/A,3.0
+268,Tin Lizzy's Cantina,Atlanta,33.7843124,-84.3849641,30309,mexican,$$,4.0
+269,Muchacho,Atlanta,33.7467049,-84.3569,30316,mexican,$$,4.0
+270,Raging Burrito & Taco,Atlanta,33.77442,-84.29547,30030,mexican,$$,4.0
+271,El Progreso,Atlanta,33.714359,-84.3683158,30315,mexican,$,4.5
+272,Bell Street Burritos,Atlanta,33.7570381164551,-84.3646850585938,30307,mexican,$,3.5
+273,Tacos and Tequilas Mexican Grill,Atlanta,33.8714052,-84.3800708,30342,mexican,$$,4.0
+274,Tacos La Villa,Atlanta,33.8929143,-84.4779433,30080,mexican,$,4.5
+275,La Guelaguetza,Atlanta,33.86366,-84.30758,30345,mexican,N/A,4.0
+276,El Bandido Mex Mex Grill,Atlanta,33.7633330863735,-84.3515967635537,30307,mexican,$$,4.0
+277,Bazati,Atlanta,33.7703514430957,-84.3623656177145,30306,mexican,N/A,3.5
+278,The Taqueria on Broad,Atlanta,33.75571,-84.38967,30303,mexican,$,4.0
+279,Dos Amigos,Atlanta,33.782404,-84.407802,30318,mexican,$$,3.0
+280,Patria Cocina,Atlanta,33.725516,-84.377048,30315,mexican,$$,3.5
+281,La Generala,Atlanta,33.8647133065825,-84.3071588873863,30345,mexican,N/A,5.0
+282,Mezcalito's Cocina & Tequila Bar,Atlanta,33.7463417053223,-84.3745956420898,30312,mexican,$$,3.5
+283,Taqueria Del Sol,Atlanta,33.77591848175,-84.3020741737703,30030,mexican,$,3.5
+284,Lean Draft House,Atlanta,33.7384300924179,-84.430488524402,30310,mexican,$$,4.0
+285,Taco Mac - Cumberland,Atlanta,33.87865,-84.456613,30339,mexican,$$,2.5
+286,Willy's Mexicana Grill,Atlanta,33.78386,-84.37875,30309,mexican,$,3.5
+287,Frita Kale-O,Atlanta,33.75291,-84.32525,30317,mexican,N/A,5.0
+288,Pure Taqueria,Atlanta,33.7629926772403,-84.3582281676906,30307,mexican,$$,3.0
+289,Pappasito's Cantina,Atlanta,33.90211,-84.47101,30067,mexican,$$,3.5
+290,Taqueria Mami,Atlanta,33.811889,-84.475885,30318,mexican,N/A,4.0
+291,Terri's Cafe,Atlanta,33.751356,-84.468602,30311,mexican,N/A,4.0
+292,Taqueria Del Sol,Atlanta,33.883767,-84.31594,30341,mexican,$,3.0
+293,El Mercadito Y Taqueria,Atlanta,33.820556640625,-84.4500045776367,30318,mexican,N/A,4.5
+294,Las Tortas Locas,Atlanta,33.91462,-84.37915,30328,mexican,$,4.0
+295,Philly G Steak,Atlanta,33.754099,-84.379943,30303,mexican,N/A,5.0
+296,El Ponce,Atlanta,33.773403,-84.356689,30306,mexican,$$,3.0
+297,Taco Cantina,Atlanta,33.883553,-84.480628,30080,mexican,$,4.5
+298,Taqueria Los Rayos,Atlanta,33.860209863519,-84.3102169117782,30319,mexican,$,3.5
+299,Willy's Mexicana Grill,Atlanta,33.7585549,-84.3481099,30307,mexican,$,4.0
+300,The Churro,Atlanta,33.86404953897,-84.30938847363,30319,mexican,N/A,2.0
+301,Pollos Asados Autentico Sinaloense,Atlanta,33.8973223417997,-84.2808846384287,30340,mexican,$,4.0
+302,Willy's Mexicana Grill,Atlanta,33.8749854,-84.3805886,30342,mexican,$,4.0
+303,Big Kahuna,Atlanta,33.762943,-84.385685,30303,mexican,$$,3.0
+304,La Patrona,Atlanta,33.86663,-84.29014,30341,mexican,N/A,3.5
+305,Tacos El Calentano,Atlanta,33.8601017,-84.3093702,30345,mexican,N/A,4.0
+306,Taxco Restaurante Mexicano,Atlanta,33.87791,-84.38013,30342,mexican,$,3.5
+307,Willy's Mexicana Grill,Atlanta,33.8564466816882,-84.3437514053774,30319,mexican,$,3.0
+308,Baspdos y Taqueria Acapulco,Atlanta,33.7161,-84.35002,30316,mexican,N/A,4.0
+309,Tortas Factory del DF,Atlanta,33.90823,-84.26686,30340,mexican,N/A,4.0
+310,Chipotle Mexican Grill,Atlanta,33.848149,-84.3741791,30305,mexican,$,3.0
+311,La Espiga Dorada,Atlanta,33.863893,-84.307592,30345,mexican,N/A,3.0
+312,Willy's Mexicana Grill,Atlanta,33.84878,-84.42814,30327,mexican,$,3.0
+313,Dani Marco Tacos,Atlanta,33.740914,-84.346445,30316,mexican,N/A,3.5
+314,Los Bravos,Atlanta,33.7936351,-84.2740617,30033,mexican,$,2.5
+315,Taqueria El Viejon Cantina,Atlanta,33.8870067674645,-84.285483956337,30341,mexican,N/A,4.0
+316,Coyote's Mexican Grill,Atlanta,33.77289781446613,-84.28910772045396,30030,mexican,$$,3.5
+317,Don Chilito's,Atlanta,33.907984,-84.487913,30067,mexican,$,4.0
+318,La Confianza - Doraville,Atlanta,33.8902021650182,-84.2852898314595,30340,mexican,N/A,4.0
+319,Taqueria El Pariente,Atlanta,33.90158,-84.27479,30340,mexican,N/A,3.5
+320,Faux Real Burger,Atlanta,33.743696,-84.438483,30310,mexican,N/A,2.5
+321,Willy's Mexicana Grill,Atlanta,33.864304,-84.476402,30339,mexican,$,3.5
+322,Moe's Southwest Grill,Atlanta,33.773536,-84.3590108,30306,mexican,$,2.5
+323,Taqueria Los Compadres,Atlanta,33.863509,-84.307941,30345,mexican,$,4.0
+324,El Patron restaurant,Atlanta,33.8896541250231,-84.2887446211656,30341,mexican,N/A,3.5
+325,Chipotle Mexican Grill,Atlanta,33.7837937591319,-84.3837017558378,30309,mexican,N/A,2.0
+326,Chipotle Mexican Grill,Atlanta,33.773927,-84.363565,30306,mexican,$,2.5
+327,El Sol,Atlanta,33.86573,-84.49224,30080,mexican,$$,3.5
+328,Moe's Southwest Grill,Atlanta,33.786908,-84.382669,30361,mexican,$,2.0
+329,La Cafeteria,Atlanta,33.8938484,-84.2959976,30341,mexican,$,4.0
+330,Chipotle Mexican Grill,Atlanta,33.8656387,-84.4693755,30339,mexican,N/A,2.5
+331,Don Juan Mexican Cantina,Atlanta,33.757649,-84.394644,30303,mexican,$$,2.0
+332,Pollo Norteno,Atlanta,33.8852199,-84.28651,30341,mexican,$,3.5
+333,Del Taco,Atlanta,33.891317,-84.475883,30080,mexican,$,3.5
+334,Taco Bell,Atlanta,33.7689756762339,-84.4133882837891,30340,mexican,$,1.0
+335,Los potrillos,Atlanta,33.9130646481625,-84.3785841017962,30328,mexican,N/A,3.0
+336,Taco Assembly,Atlanta,33.77305,-84.2855,30030,mexican,N/A,1.0
+337,Taco Bell,Atlanta,33.754311,-84.267338,30032,mexican,$,1.5
+338,Taco Bell,Atlanta,33.879171,-84.471564,30339,mexican,$,2.0
+339,Two Urban Licks,Atlanta,33.7684555661887,-84.3612738994751,30306,new_american,$$,4.0
+340,Whiskey Bird,Atlanta,33.792656,-84.351852,30306,new_american,$$,4.5
+341,The Woodall,Atlanta,33.81699917969042,-84.44869,30318,new_american,N/A,5.0
+342,5Church Atlanta,Atlanta,33.787526,-84.383007,30361,new_american,$$,4.0
+343,True Food Kitchen,Atlanta,33.847652,-84.363745,30326,new_american,$$,4.0
+344,Velvet Taco Buckhead,Atlanta,33.83985,-84.3810005042992,30305,new_american,$$,4.0
+345,Seven Lamps,Atlanta,33.847036028129,-84.3656622761963,30326,new_american,$$,4.0
+346,Buttermilk Kitchen,Atlanta,33.86986,-84.38056,30342,new_american,$$,4.5
+347,King + Duke,Atlanta,33.8392039031944,-84.3807741437533,30305,new_american,$$$,4.0
+348,gusto!,Atlanta,33.8075938694564,-84.3935011499407,30309,new_american,$,4.5
+349,Industry Tavern,Atlanta,33.8452336367562,-84.3712960294998,30305,new_american,$$,4.0
+350,Breakfast at Barneys,Atlanta,33.74969717,-84.37897677,30312,new_american,N/A,4.0
+351,Lazy Betty,Atlanta,33.76279,-84.3375,30307,new_american,$$$$,4.5
+352,Scoville Hot Chicken,Atlanta,33.890107,-84.380792,30342,new_american,N/A,4.5
+353,Biltong Bar,Atlanta,33.8383843464077,-84.3780279090275,30305,new_american,N/A,4.5
+354,Mission + Market,Atlanta,33.8518,-84.36727,30326,new_american,$$,4.0
+355,Gunshow,Atlanta,33.7407023786913,-84.3580284818322,30316,new_american,$$$,4.5
+356,Fire Hen,Atlanta,33.84146392751645,-84.38043265522536,30305,new_american,N/A,3.0
+357,Iron Hill Brewery & Restaurant -  Buckhead,Atlanta,33.851654,-84.359607,30326,new_american,N/A,4.5
+358,Cypress Street Pint & Plate,Atlanta,33.777327,-84.386122,30308,new_american,$$,4.0
+359,Field Day,Atlanta,33.761508,-84.365273,30312,new_american,N/A,4.5
+360,Yumbii,Atlanta,33.8160016211737,-84.3124777387008,30329,new_american,N/A,4.0
+361,Park 75 Restaurant,Atlanta,33.7863614206531,-84.3853533267975,30309,new_american,$$$,4.0
+362,Boone's,Atlanta,33.81597,-84.40344,30305,new_american,N/A,4.0
+363,Wisteria,Atlanta,33.76680602973814,-84.35276507055224,30307,new_american,$$$,4.0
+364,Woodward & Park,Atlanta,33.7461,-84.37069,30312,new_american,N/A,4.5
+365,Whisky Mistress,Atlanta,33.8416633605957,-84.3718566894531,30305,new_american,$$,3.0
+366,PONKO Chicken,Atlanta,33.870106929989,-84.3792929484033,30342,new_american,N/A,4.5
+367,Full Commission,Atlanta,33.7461018373789,-84.3702585250139,30312,new_american,$$,4.5
+368,Onyx,Atlanta,33.845219,-84.370354,30305,new_american,$$,4.0
+369,Boxcar,Atlanta,33.729955,-84.418626,30310,new_american,$$,4.0
+370,Houston's Restaurant,Atlanta,33.8512993187976,-84.4299898461716,30327,new_american,$$,3.5
+371,Del Frisco's Grille,Atlanta,33.8489524,-84.3664042,30326,new_american,$$$,3.5
+372,Flying Biscuit Café,Atlanta,33.8448716649604,-84.3715132785736,30305,new_american,$$,3.5
+373,9 Mile Station,Atlanta,33.772831,-84.365785,30308,new_american,$$,3.5
+374,Poor Hendrix,Atlanta,33.7509636039268,-84.3093434027192,30317,new_american,$$,4.5
+375,gusto!,Atlanta,33.7742385864258,-84.3617706298828,30306,new_american,$$,4.5
+376,Kimball House,Atlanta,33.77164,-84.29228,30030,new_american,$$$,4.5
+377,Southbound,Atlanta,33.89234,-84.30109,30341,new_american,$$,4.0
+378,Golden Eagle,Atlanta,33.746909,-84.358001,30316,new_american,$$,4.0
+379,PONKO Chicken,Atlanta,33.8781544375495,-84.2703509330749,30341,new_american,$$,4.0
+380,Edgar's Proof & Provision,Atlanta,33.7725792,-84.3844681,30308,new_american,$$,3.5
+381,"The Sun Dial Restaurant, Bar & View",Atlanta,33.759349,-84.388573,30303,new_american,$$$,3.5
+382,Apres Diem,Atlanta,33.779196,-84.367238,30308,new_american,$$,3.5
+383,Best End Brewing,Atlanta,33.731487,-84.421796,30310,new_american,$$,4.0
+384,Einstein's,Atlanta,33.7840423583984,-84.3819885253906,30309,new_american,$$,3.5
+385,Mix'D UP Burgers,Atlanta,33.7459289510232,-84.3684092123774,30312,new_american,$,4.0
+386,Lagarde American Eatery,Atlanta,33.8886577,-84.3135283,30341,new_american,$$,4.5
+387,Twelve Eighty,Atlanta,33.789483,-84.385685,30309,new_american,$$,3.5
+388,California Pizza Kitchen at Atlantic Station,Atlanta,33.792998,-84.397079,30363,new_american,$$,3.5
+389,American Cut Steakhouse,Atlanta,33.83731,-84.380984,30305,new_american,$$$,3.5
+390,Serpas True Food,Atlanta,33.7570261571587,-84.3660265591654,30312,new_american,$$,4.0
+391,Hop's Chicken,Atlanta,33.7724257265375,-84.3658560037048,30308,new_american,$,3.0
+392,Frost Bistro & Bar,Atlanta,33.747,-84.4025,30313,new_american,$$,2.5
+393,The Alden,Atlanta,33.888506,-84.314178,30341,new_american,$$,4.5
+394,My Sister's Room,Atlanta,33.78484,-84.38481,30309,new_american,$,3.0
+395,Tupelo Honey,Atlanta,33.88033269114058,-84.38013289513079,30342,new_american,$$,3.5
+396,Bantam Pub,Atlanta,33.76619,-84.36298,30312,new_american,$$,4.0
+397,Corner Cafe,Atlanta,33.8391723632812,-84.3694763183594,30305,new_american,$$,3.5
+398,Swan Coach House,Atlanta,33.8405902,-84.3854981,30305,new_american,$$,4.0
+399,The Club Room,Atlanta,33.801465,-84.324325,30329,new_american,$$,3.5
+400,The Cheesecake Factory,Atlanta,33.8807569,-84.467929,30339,new_american,$$,3.0
+401,Marlow's Tavern,Atlanta,33.90767,-84.3798599,30342,new_american,$$,4.0
+402,The GA Chapter Room,Atlanta,33.9080257442435,-84.3796686002606,30342,new_american,$$,4.5
+403,HOBNOB Neighborhood Tavern - Town Brookhaven,Atlanta,33.870588,-84.336451,30319,new_american,$$,3.5
+404,Krispy krunchy chicken,Atlanta,33.7548346869684,-84.3907899179797,30303,new_american,N/A,4.0
+405,gusto!,Atlanta,33.88363,-84.31634,30341,new_american,$$,4.0
+406,Marlow's Tavern,Atlanta,33.8914278066706,-84.3230895726303,30319,new_american,$$,4.0
+407,Pea Ridge Kitchen and Bar,Atlanta,33.82287,-84.26185,30033,new_american,$$,4.0
+408,AG,Atlanta,33.758659,-84.387156,30303,new_american,$$$,3.5
+409,Paces & Vine,Atlanta,33.8650988743631,-84.4664315800947,30339,new_american,$$,3.5
+410,Prime Meridian,Atlanta,33.759517,-84.395108,30303,new_american,$$,3.5
+411,Flying Biscuit Café - Candler Park,Atlanta,33.764873,-84.3331937,30307,new_american,$$,4.0
+412,Oy!,Atlanta,33.85984,-84.48038,30339,new_american,$$,3.5
+413,Sum' Thing Simple Cafe,Atlanta,33.764022,-84.4561043,30314,new_american,$,4.0
+414,Ponko Chicken,Atlanta,33.846349,-84.3635778,30326,new_american,N/A,4.5
+415,Suite Food Lounge,Atlanta,33.765005,-84.395784,30313,new_american,$$,3.0
+416,Lenox Road Bar & Grill,Atlanta,33.848182,-84.359684,30326,new_american,$$,3.0
+417,Diesel Filling Station,Atlanta,33.7783,-84.35307,30306,new_american,$$,3.0
+418,Yard House,Atlanta,33.889496,-84.469138,30339,new_american,$$,3.0
+419,The Drafting Table Cocktails & Kitchen,Atlanta,33.76026,-84.38822,30303,new_american,N/A,4.0
+420,Iron Skillet Restaurant,Atlanta,33.786586,-84.490363,30318,new_american,$$,2.5
+421,Twain's Brewpub & Billiards,Atlanta,33.7723503112793,-84.2946624755859,30030,new_american,$$,3.5
+422,Atlanta Culinary Tours,Atlanta,33.7648778745964,-84.3901062011719,30303,new_american,N/A,5.0
+423,Fork & Juniper,Atlanta,33.7815269,-84.38311,30309,new_american,$$,2.5
+424,Eden,Atlanta,33.8870023658726,-84.2545150403366,30341,new_american,$$,3.5
+425,Buckhead Saloon,Atlanta,33.843208,-84.37881,30305,new_american,$$,2.5
+426,Terrace,Atlanta,33.75826,-84.38783,30303,new_american,$$$,3.0
+427,Omni Hotel at the Battery Atlanta Restaurant,Atlanta,33.889427,-84.467528,30339,new_american,N/A,3.5
+428,ATL Fried Chicken,Atlanta,33.75237,-84.39222,30303,new_american,N/A,2.0
+429,BurgerFi,Atlanta,33.7579401575518,-84.3946177249146,30303,new_american,$$,3.0
+430,City Winery,Atlanta,33.7712649,-84.3648397,30308,new_american,$$,3.0
+431,Molly B's,Atlanta,33.78796,-84.38584,30309,new_american,N/A,2.5
+432,Wing Factory,Atlanta,33.8820046,-84.4744552,30339,new_american,$$,3.5
+433,JR Crickets Halftime,Atlanta,33.7214,-84.46517,30311,new_american,$$,3.0
+434,Wildwood Cafe,Atlanta,33.9136546,-84.4610823,30339,new_american,$,4.0
+435,NM Cafe,Atlanta,33.84632,-84.36266,30326,new_american,$$,3.5
+436,Dream Wings,Atlanta,33.739908728488,-84.31199477492,30316,new_american,$,2.0
+437,JR Crickets Westside,Atlanta,33.7547004,-84.4153374,30314,new_american,$,2.5
+438,Food Shuttle,Atlanta,33.8492055237293,-84.4293174147606,30327,new_american,$$,2.0
+439,Peach Cobbler Cafe,Atlanta,33.81492,-84.39155,30309,soulfood,N/A,3.5
+440,Soul: Food & Culture,Atlanta,33.75677,-84.364043,30307,soulfood,N/A,5.0
+441,Fin & Feathers,Atlanta,33.75457,-84.37596,30312,soulfood,$$,4.0
+442,SoulBox,Atlanta,33.74085,-84.4131,30310,soulfood,N/A,4.5
+443,Magic City Kitchen,Atlanta,33.74825,-84.397306,30303,soulfood,N/A,4.0
+444,The Busy Bee Cafe,Atlanta,33.7544325583427,-84.4140216889549,30314,soulfood,$$,4.0
+445,Twisted Soul Cookhouse & Pours,Atlanta,33.78972,-84.42547,30318,soulfood,$$,4.0
+446,Southern Kitchen & Grill,Atlanta,33.8863760790887,-84.2655890062451,30340,soulfood,N/A,4.5
+447,Soul Vegan,Atlanta,33.796034318190046,-84.4139938245411,30318,soulfood,N/A,4.0
+448,Kelz Kitchen - Atlanta,Atlanta,33.750189,-84.395204,30303,soulfood,$$,3.0
+449,M&M’s Comfort Zone,Atlanta,33.740932,-84.346574,30316,soulfood,N/A,5.0
+450,Pittypat's Porch Restaurant,Atlanta,33.7598249,-84.3884199,30303,soulfood,$$,3.5
+451,The BQE Restaurant & Lounge,Atlanta,33.7546,-84.37913,30303,soulfood,$$,3.5
+452,K & K Soul Food,Atlanta,33.7734107971191,-84.4161529541016,30318,soulfood,$,4.0
+453,One Luv Cafe ATL,Atlanta,33.813493,-84.4689258,30318,soulfood,$$,4.0
+454,JJ Fish & Chicken,Atlanta,33.7222803278841,-84.3928086226151,30315,soulfood,$,4.0
+455,Paschal's,Atlanta,33.7495199,-84.40352,30313,soulfood,$$,3.0
+456,DiasPora Kitchen,Atlanta,33.754615831628605,-84.26848012875635,30032,soulfood,N/A,4.0
+457,Da Korner Cafe,Atlanta,33.74779,-84.33284,30317,soulfood,N/A,4.0
+458,Unity Restaurant,Atlanta,33.750265,-84.4535749,30310,soulfood,$$,4.5
+459,26 Thai Kitchen & Bar,Atlanta,33.822383,-84.369119,30324,thai,$$,4.5
+460,Little Bangkok,Atlanta,33.81593,-84.35219,30324,thai,$$,4.0
+461,Silom Thai & Sushi,Atlanta,33.846287,-84.3586822,30326,thai,$$,4.5
+462,Thaicoon & Sushi Bar,Atlanta,33.8044395664894,-84.3355759796234,30306,thai,$$,4.0
+463,Tuk Tuk Thai Food Loft,Atlanta,33.8016534976233,-84.3922739444125,30309,thai,$$,4.0
+464,Bangkok Station,Atlanta,33.8373431,-84.3701132,30305,thai,$$,4.0
+465,Bangkok Thai Restaurant,Atlanta,33.7955704,-84.3705218,30309,thai,$$,4.0
+466,Tamsung Thai Street Eats,Atlanta,33.84296,-84.37942,30305,thai,$$,4.5
+467,Top Spice,Atlanta,33.8133641942674,-84.3100500804954,30329,thai,$$,4.0
+468,Ocean Wave By Harry And Sons,Atlanta,33.7769336,-84.352722,30306,thai,$$,4.0
+469,Nan Thai Fine Dining,Atlanta,33.7916352,-84.3893652,30309,thai,$$$,4.0
+470,26 Thai Kitchen at The Battery,Atlanta,33.88728502643899,-84.4705862,30339,thai,N/A,3.0
+471,Su's Chinese Cuisine,Atlanta,33.7963896243025,-84.371042422091,30324,thai,$$,3.0
+472,26 Thai Kitchen & Bar at Midtown,Atlanta,33.77702,-84.38313,30308,thai,$$,4.5
+473,Mali Restaurant,Atlanta,33.7874551,-84.3557158,30306,thai,$$,4.0
+474,Lucky Thai,Atlanta,33.82799,-84.32658,30329,thai,$$,4.5
+475,Sri Thai Kitchen & Sushi Bar - Atlanta,Atlanta,33.79340960972284,-84.39776594339817,30363,thai,N/A,4.5
+476,Chai Yo Modern Thai,Atlanta,33.839136,-84.38111,30305,thai,$$,4.0
+477,Grand China Restaurant,Atlanta,33.8362756,-84.3817358,30305,thai,$$,4.0
+478,Krungthep Tea Time - Midtown Atlanta,Atlanta,33.79589,-84.41406,30318,thai,N/A,5.0
+479,Siam Thai Restaurant,Atlanta,33.77438,-84.29589,30033,thai,$$,3.5
+480,L'Thai Organic Cuisine & Wine Bar - Smyrna,Atlanta,33.843389,-84.490469,30080,thai,$$,3.5
+481,Thai Diner,Atlanta,33.872232,-84.457747,30339,thai,$$,3.5
+482,Hunan Dragon 3,Atlanta,33.789815,-84.307892,30030,thai,$,3.0
+483,Northlake Thai Cuisine,Atlanta,33.8432717097841,-84.256375618279,30084,thai,$$,3.5
+484,T1 Bento,Atlanta,33.907766,-84.289732,30341,thai,$,4.0
+485,Saigon Cafe - Cumberland,Atlanta,33.8870397386265,-84.4755952779047,30080,thai,$$,3.5
+486,Thai Cafe,Atlanta,33.8796596237358,-84.4676639271915,30339,thai,N/A,2.5
+487,Tin Drum Asian Kitchen - Akers Mill Square,Atlanta,33.88280418,-84.46203338,30339,thai,$,2.5
+488,ThaiPointe,Atlanta,33.89351,-84.2843,30341,thai,N/A,1.0
